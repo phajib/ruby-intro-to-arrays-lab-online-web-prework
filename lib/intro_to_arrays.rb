@@ -11,7 +11,8 @@ def array_with_two_elements
 end
 
 def first_element(taylor_swift)
-  my_first_element = array(taylor_swift)
-  puts "#{my_first_element}"
+  my_first_element = taylor_swift
+  #puts "#{my_first_element}"
+  #return my_first_element[0]
   return my_first_element[0]
 end
