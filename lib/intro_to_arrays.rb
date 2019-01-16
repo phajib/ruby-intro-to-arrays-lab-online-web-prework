@@ -10,6 +10,6 @@ end
 
 def first_element(array, element)
   array = first_element
-  first_element(element)
+  first_element("#{element}")
   return first_element.first
 end
