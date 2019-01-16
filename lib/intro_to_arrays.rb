@@ -9,6 +9,6 @@ def array_with_two_elements
 end
 
 def first_element(array, elements)
-  array = first_element[elements]
+  array = first_element(elements)
   return first_element[0]
 end
