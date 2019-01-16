@@ -16,3 +16,8 @@ def first_element(taylor_swift)
   #return my_first_element[0]
   return my_first_element[0]
 end
+
+def third_element(taylor_swift)
+  my_third_element = taylor_swift
+  return my_third_element[2]
+end
