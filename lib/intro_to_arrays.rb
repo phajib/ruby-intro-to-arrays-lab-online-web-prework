@@ -24,5 +24,5 @@ end
 
 def last_element(taylor_swift)
   my_last_element = taylor_swift
-  return my_third_element.last_element
+  return my_third_element.last
 end
