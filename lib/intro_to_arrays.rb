@@ -10,5 +10,6 @@ end
 
 def first_element(array, elements)
   my_first_element = array(elements)
+  puts "#{my_first_element}"
   return my_first_element[0]
 end
