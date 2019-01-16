@@ -10,5 +10,5 @@ end
 
 def first_element(array, elements)
   array = first_element[elements]
-  return first_element.first
+  return first_element.[0]
 end
