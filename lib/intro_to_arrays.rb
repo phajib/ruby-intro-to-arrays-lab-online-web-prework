@@ -31,3 +31,8 @@ def first_element_with_array_methods(south_east_asia)
   first_country = south_east_asia
   return first_country.first
 end
+
+def last_element_with_array_methods(south_east_asia)
+  last_country = south_east_asia
+  return last_country.last
+end
