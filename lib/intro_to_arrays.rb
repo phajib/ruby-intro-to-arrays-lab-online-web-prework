@@ -8,8 +8,7 @@ def array_with_two_elements
   return my_two_array
 end
 
-def first_element(array, element)
-  array = first_element
-  first_element[element]
+def first_element(array, elements)
+  array = first_element[elements]
   return first_element.first
 end
